@@ -5,6 +5,12 @@ jQuery plugin for validation forms
 
 
 Example
+
+```html
+<!--Name the inputs name same as jquery-->
+<input type="text" name="username">
+```
+
 ```javascript
 $('.form').weValidate({
     validate: {
