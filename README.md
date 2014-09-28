@@ -5,7 +5,7 @@ jQuery plugin for validation forms
 
 
 Example
-```
+```javascript
 $('.form').weValidate({
     validate: {
         username: {
