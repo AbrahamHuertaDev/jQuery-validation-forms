@@ -5,6 +5,7 @@ jQuery plugin for validation forms
 
 
 Example
+```
 $('.form').weValidate({
     validate: {
         username: {
@@ -32,3 +33,4 @@ $('.form').weValidate({
         same: ':name debe coincidir con :same'
     }
 });
+```
